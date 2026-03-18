@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi there, I'm Jesus 
 
-<!--
-**016jesus/016jesus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Systems Engineering student with a strong interest in software development, backend engineering, and building practical solutions. 
 
-Here are some ideas to get you started:
+**🚀 What I'm up to:**
+* 🎓 Currently in my 7th semester studying Systems Engineering.
+* 💻 Building and designing my personal portfolio website.
+* 🔍 Previously worked on a report traceability platform and developed the backend for a computer vision project.
+* 🎮 In my free time, I manage and configure a cross-play Java/Bedrock Minecraft server.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🛠️ Tech Stack & Skills:**
+* **Languages:** Java, C#, Python
+* **Interests:** Backend Development, System Architecture, Server Administration
+
+
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.jesucripto.win/p/016jesus)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jesus-delgado16/)
+
+
