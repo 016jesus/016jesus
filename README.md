@@ -11,7 +11,12 @@ I'm a Systems Engineering student with a strong interest in software development
 **🛠️ Tech Stack & Skills:**
 * **Languages:** Java, C#, Python
 * **Interests:** Backend Development, System Architecture, Server Administration
+
+
+## Github Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=016jesus&theme=dark&hide_border=true)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.jesucripto.win/p/016jesus)
