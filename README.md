@@ -1,5 +1,5 @@
 ## Hi there, I'm Jesus 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=016jesus&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
 I'm a Systems Engineering student with a strong interest in software development, backend engineering, and building practical solutions. 
 
 **🚀 What I'm up to:**
@@ -11,7 +11,7 @@ I'm a Systems Engineering student with a strong interest in software development
 **🛠️ Tech Stack & Skills:**
 * **Languages:** Java, C#, Python
 * **Interests:** Backend Development, System Architecture, Server Administration
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=016jesus&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 ## 🔗 Links
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.jesucripto.win/p/016jesus)
