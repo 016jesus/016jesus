@@ -17,7 +17,7 @@ Systems Engineering student at Universidad de los Llanos, passionate about backe
 | Backend | Spring Boot · FastAPI · .NET |
 | Cloud & DevOps | AWS · Docker · GitHub Actions |
 | Databases | PostgreSQL · MongoDB |
-| Tools | Linux · Git · |
+| Tools | Linux · Git |
 
 **📌 Notable Projects**
 
