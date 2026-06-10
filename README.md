@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/jesus-delgado16/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
-  <a href="https://www.jesucripto.win/p/016jesus" target="_blank">
+  <a href="https://me.jesucripto.win" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=ko-fi&logoColor=white" target="_blank" />
   </a>
   <a href="mailto:jesusdel1611@gmail.com">
