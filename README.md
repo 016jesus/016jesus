@@ -4,7 +4,7 @@
 
 <div align="center">
   <h3>
-    ◖⠀⠀⠀⠀⠀⠀Jesús Delgado⠀⠀⠀⠀•⠀⠀⠀⠀016jesus⠀⠀⠀⠀•⠀⠀⠀⠀🇨🇴⠀⠀⠀⠀⠀⠀◗
+    ◖⠀⠀⠀⠀⠀⠀Jesús Delgado⠀⠀⠀⠀•⠀⠀⠀⠀yixx16⠀⠀⠀⠀•⠀⠀⠀⠀🇨🇴⠀⠀⠀⠀⠀⠀◗
   </h3>
   <i>"Build it, test it, ship it to the cloud."</i>
 </div>
@@ -21,7 +21,7 @@
   <a href="mailto:jesusdel1611@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank" />
   </a>
-  <a href="https://github.com/016jesus">
+  <a href="https://github.com/yixx16">
     <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white" target="_blank" />
   </a>
 </div>
@@ -30,7 +30,7 @@
 
 ### ➤⠀ABOUT
 
-> `016jesus@aws:~$ cat profile.txt`
+> `yixx16@aws:~$ cat profile.txt`
 
 **Systems Engineering student** at Universidad de los Llanos (Villavicencio, Colombia 🇨🇴), passionate about **backend development, cloud infrastructure, and applied research**.
 
@@ -78,16 +78,16 @@
 ### ➤⠀STATS
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=016jesus&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=yixx16&show_icons=true&theme=dracula&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=016jesus&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&langs_count=6" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yixx16&layout=compact&theme=dracula&hide_border=true&bg_color=0d1117&langs_count=6" height="180" alt="languages graph" />
 
   <br/> <br/>
 
   <h3>❝From the Llanos to the cloud.❞</h3>
   <br/>
 
-  <img src="https://komarev.com/ghpvc/?username=016jesus&label=PROFILE+VIEWS&style=for-the-badge&color=20232a" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=yixx16&label=PROFILE+VIEWS&style=for-the-badge&color=20232a" alt="profile views" />
 </div>
 
 <br/>
